@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-gy1145-si1145-sensor-visible-infrared-sensor-module",
+  "title": "gy1145-si1145-sensor-visible-infrared-sensor-module",
+  "keywords": "gy1145-si1145-sensor-visible-infrared-sensor-module, esp32, esp8266, arduino",
+  "description": "gy1145-si1145-sensor-visible-infrared-sensor-module plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-gy1145-si1145-sensor-visible-infrared-sensor-module/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-gy1145-si1145-sensor-visible-infrared-sensor-module/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
